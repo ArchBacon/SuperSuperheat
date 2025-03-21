@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "namespace": "SuperSuperheat",
+  "icon": "assets/icon.png",
+  "setup": "src/setup.mjs"
+}
